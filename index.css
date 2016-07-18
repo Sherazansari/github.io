@@ -1,0 +1,208 @@
+@media screen and (min-width : 992px) {
+#div1 {
+	float: left;
+	background-color: gray;
+	width: 30%;
+	height: 30%;
+	border: solid;
+	margin-left: 2%;
+}
+#div2 {
+	float: left;
+	background-color: gray;
+	width: 30%;
+	height: 30%;
+	border: solid;
+	margin-left: 2%;
+}
+#div3 {
+	float: left;
+	background-color: gray;
+	width: 30%;
+	height: 30%;
+	border: solid;
+	margin-left: 2%;
+}
+#inDiv1 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv2 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv3 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv4 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv5 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv6 {
+	height: 90%;
+	width: 100%;
+}
+#chicken {
+	width: 20%;
+	float: right;
+	background-color: pink;
+	border: solid;
+}
+#beef {
+	width: 20%;
+	float: right;
+	background-color: red;
+	border: solid;
+}
+#sushi {
+	width: 20%;
+	float: right;
+	background-color: #E5D198;
+	border: solid;
+}
+}
+@media screen and (min-width : 768px) and (max-width : 991px) {
+ #div1 {
+	float: left;
+	background-color: gray;
+	width: 40%;
+	height: 30%;
+	border: solid;
+	margin-left: 9%;
+}
+#div2 {
+	float: left;
+	background-color: gray;
+	width: 40%;
+	height: 30%;
+	border: solid;
+	margin-left: 2%;
+}
+#div3 {
+	float: left;
+	background-color: gray;
+	width: 83%;
+	height: 30%;
+	border: solid;
+	margin-top: 3%;
+	margin-left: 9%;
+}
+#inDiv1 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv2 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv3 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv4 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv5 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv6 {
+	height: 90%;
+	width: 100%;
+}
+#chicken {
+	width: 20%;
+	float: right;
+	background-color: pink;
+	border: solid;
+}
+#beef {
+	width: 20%;
+	float: right;
+	background-color: red;
+	border: solid;
+}
+#sushi {
+	width: 20%;
+	float: right;
+	background-color: #E5D198;
+	border: solid;
+}
+} 
+
+@media screen and (max-width: 750px) {
+#div1 {
+	float: left;
+	background-color: gray;
+	width: 80%;
+	height: 30%;
+	border: solid;
+	margin-left: 10%;
+}
+#div2 {
+	float: left;
+	background-color: gray;
+	width: 80%;
+	height: 30%;
+	border: solid;
+	margin-left: 10%;
+	margin-top: 3%;
+}
+#div3 {
+	float: left;
+	background-color: gray;
+	width: 80%;
+	height: 30%;
+	border: solid;
+	margin-left: 10%;
+	margin-top: 3%;
+}
+#inDiv1 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv2 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv3 {
+	height: 5%;
+	width: 100%;
+}
+#inDiv4 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv5 {
+	height: 90%;
+	width: 100%;
+}
+#inDiv6 {
+	height: 90%;
+	width: 100%;
+}
+#chicken {
+	width: 20%;
+	float: right;
+	background-color: pink;
+	border: solid;
+}
+#beef {
+	width: 20%;
+	float: right;
+	background-color: red;
+	border: solid;
+}
+#sushi {
+	width: 20%;
+	float: right;
+	background-color: #E5D198;
+	border: solid;
+}
+} 
